@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSLight
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            byte yourNumber;
+            short health;
+            int money;
+            uint count;
+            long mileage;
+            float roomArea;
+            double area;
+            char input;
+            string fullName;
+            bool endResult;
+        }
+    }
+}
